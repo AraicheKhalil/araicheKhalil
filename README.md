@@ -1,6 +1,6 @@
 ### 👋 Hey , Nice to see you!
 
-I'm khalil Araiche || dedicated full-stack developer . Throughout my career, I've consistently delivered successful software projects, demonstrating a proven track record of excellence. My coding adventure has been an exciting and continuous exploration of languages and technologies, where I've honed my skills and expertise . My goal is not only to create amazing software but also to share my knowledge with others.
+I'm Khalil Araiche, a dedicated full-stack developer . Throughout my career, I've consistently delivered successful software projects, demonstrating a proven track record of excellence. My coding adventure has been an exciting and continuous exploration of languages and technologies, where I've honed my skills and expertise . My goal is not only to create amazing software but also to share my knowledge with others.
 
 Let's connect, collaborate, and code together. 🚀
 
@@ -120,3 +120,37 @@ Let's connect, collaborate, and code together. 🚀
  <tr>
  </tr>
 </table>
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/araicheKhalil/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=araicheKhalil&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/araicheKhalil/github-readme-stats"><img alt="araicheKhalil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araicheKhalil&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=araicheKhalil&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=araicheKhalil&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
+
+## Recent GitHub Activity ✅
+
+![Metrics](https://metrics.lecoq.io/araicheKhalil?template=classic&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Europe%2FParis)
+
+
+
+
+
+
